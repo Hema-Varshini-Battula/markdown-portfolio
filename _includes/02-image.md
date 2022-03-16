@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![yaktocat](https://user-images.githubusercontent.com/101091268/158543405-785c57ee-fdbf-4732-b728-b626febb0b9f.png)
